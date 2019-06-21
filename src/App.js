@@ -59,6 +59,7 @@ class App extends Component {
             onIncrement={this.handleIncrement}
             onDelete={this.handleDelete}
           />
+          <h1>This is updated text to check git -add, -commit, -push</h1>
         </main>
       </React.Fragment>
     );
